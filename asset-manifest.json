@@ -1,24 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.1b258de8.chunk.css",
-    "main.js": "/static/js/main.fb34e9c1.chunk.js",
-    "main.js.map": "/static/js/main.fb34e9c1.chunk.js.map",
+    "main.css": "/static/css/main.e31f7aff.chunk.css",
+    "main.js": "/static/js/main.9ca9a8d0.chunk.js",
+    "main.js.map": "/static/js/main.9ca9a8d0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ada1e69d.js",
     "runtime-main.js.map": "/static/js/runtime-main.ada1e69d.js.map",
-    "static/css/2.543c839e.chunk.css": "/static/css/2.543c839e.chunk.css",
-    "static/js/2.1b666cc2.chunk.js": "/static/js/2.1b666cc2.chunk.js",
-    "static/js/2.1b666cc2.chunk.js.map": "/static/js/2.1b666cc2.chunk.js.map",
+    "static/css/2.ec32c3ac.chunk.css": "/static/css/2.ec32c3ac.chunk.css",
+    "static/js/2.e60f9cbb.chunk.js": "/static/js/2.e60f9cbb.chunk.js",
+    "static/js/2.e60f9cbb.chunk.js.map": "/static/js/2.e60f9cbb.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/2.543c839e.chunk.css.map": "/static/css/2.543c839e.chunk.css.map",
-    "static/css/main.1b258de8.chunk.css.map": "/static/css/main.1b258de8.chunk.css.map",
-    "static/js/2.1b666cc2.chunk.js.LICENSE.txt": "/static/js/2.1b666cc2.chunk.js.LICENSE.txt",
+    "static/css/2.ec32c3ac.chunk.css.map": "/static/css/2.ec32c3ac.chunk.css.map",
+    "static/css/main.e31f7aff.chunk.css.map": "/static/css/main.e31f7aff.chunk.css.map",
+    "static/js/2.e60f9cbb.chunk.js.LICENSE.txt": "/static/js/2.e60f9cbb.chunk.js.LICENSE.txt",
+    "static/media/fantasy.b07e86ba.png": "/static/media/fantasy.b07e86ba.png",
+    "static/media/martial.fc0beea4.png": "/static/media/martial.fc0beea4.png",
+    "static/media/modernfantasy.0741cc87.png": "/static/media/modernfantasy.0741cc87.png",
+    "static/media/mystery.cbc36778.png": "/static/media/mystery.cbc36778.png",
+    "static/media/romance.c7e67699.png": "/static/media/romance.c7e67699.png",
+    "static/media/romancefantasy.e35e38b7.png": "/static/media/romancefantasy.e35e38b7.png",
     "static/media/user.f4aa51de.png": "/static/media/user.f4aa51de.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ada1e69d.js",
-    "static/css/2.543c839e.chunk.css",
-    "static/js/2.1b666cc2.chunk.js",
-    "static/css/main.1b258de8.chunk.css",
-    "static/js/main.fb34e9c1.chunk.js"
+    "static/css/2.ec32c3ac.chunk.css",
+    "static/js/2.e60f9cbb.chunk.js",
+    "static/css/main.e31f7aff.chunk.css",
+    "static/js/main.9ca9a8d0.chunk.js"
   ]
 }
